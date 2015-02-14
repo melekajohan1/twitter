@@ -1,16 +1,11 @@
 source 'https://rubygems.org'
-ruby '2.1.1'
-#ruby-gemset=railstutorial_rails_4_0
 
 gem 'rails', '4.1.0'
-<<<<<<< HEAD
 gem 'bootstrap-sass', "3.2.0.0"
 gem 'bcrypt-ruby', '3.1.2'
 gem 'faker', '1.1.2'
 gem 'will_paginate', '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
-=======
->>>>>>> user-microposts
 
 group :development do
   gem 'sqlite3', '1.3.8'
@@ -18,11 +13,6 @@ end
 
 
 gem "sass-rails", "4.0.3"
-gem 'bootstrap-sass', '3.2.0.0'
-gem 'bcrypt-ruby', '3.1.2'
-gem 'faker', '1.1.2'
-gem 'will_paginate', '3.0.7'
-gem 'bootstrap-will_paginate', '0.0.10'
 
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.0.1'
